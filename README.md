@@ -101,8 +101,11 @@ DeepSeek's game had more potential with its detailed design and menu system. Aft
 
 ## **How to Run the Games**
 
-1.Download as ZIP 
-2.Extract
-3.Have fun!
+1 Download as ZIP 
+2 Extract
+3 Have fun!
+
+## DONATIONS :
+- Paypal ; [ErenKrb](https://www.paypal.com/paypalme/Erenkrb)
 
    
