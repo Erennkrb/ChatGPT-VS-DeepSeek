@@ -101,6 +101,8 @@ DeepSeek's game had more potential with its detailed design and menu system. Aft
 
 ## **How to Run the Games**
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/ChatGPT-VS-DeepSeek.git
+1.Download as ZIP 
+2.Extract
+3.Have fun!
+
+   
